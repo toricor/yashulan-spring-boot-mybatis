@@ -1,6 +1,7 @@
-package com.toricor.training.user;
+package com.toricor.training.service;
 
-import com.toricor.training.user.entity.User;
+import com.toricor.training.repository.UserMapper;
+import com.toricor.training.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

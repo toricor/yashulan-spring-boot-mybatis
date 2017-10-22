@@ -1,6 +1,6 @@
-package com.toricor.training.user;
+package com.toricor.training.repository;
 
-import com.toricor.training.user.entity.User;
+import com.toricor.training.entity.User;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;

@@ -1,6 +1,7 @@
-package com.toricor.training.user;
+package com.toricor.training.controller;
 
-import com.toricor.training.user.entity.User;
+import com.toricor.training.service.UserService;
+import com.toricor.training.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
