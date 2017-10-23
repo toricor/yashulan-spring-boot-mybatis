@@ -1,4 +1,4 @@
-package com.toricor.training.entity;
+package com.toricor.yashulan.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

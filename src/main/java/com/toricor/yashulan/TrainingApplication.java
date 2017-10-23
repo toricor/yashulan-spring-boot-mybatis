@@ -1,4 +1,4 @@
-package com.toricor.training;
+package com.toricor.yashulan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

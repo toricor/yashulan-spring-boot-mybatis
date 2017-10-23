@@ -1,6 +1,6 @@
-package com.toricor.training.repository;
+package com.toricor.yashulan.repository;
 
-import com.toricor.training.entity.User;
+import com.toricor.yashulan.entity.User;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;

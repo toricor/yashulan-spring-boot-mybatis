@@ -1,7 +1,7 @@
-package com.toricor.training.controller;
+package com.toricor.yashulan.controller;
 
-import com.toricor.training.service.UserService;
-import com.toricor.training.entity.User;
+import com.toricor.yashulan.service.UserService;
+import com.toricor.yashulan.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
